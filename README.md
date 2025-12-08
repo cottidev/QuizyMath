@@ -29,7 +29,7 @@ The **Math Quiz Game** is a fun and interactive Python-based quiz that challenge
 1. Ensure you have **Python 3** installed.  
 2. Download the script or clone the repository:  
    ```sh
-   git clone https://github.com/berhocode/math-quiz-game.git
+   git clone https://github.com/cottidev/math-quiz-game.git
    cd math-quiz-game
    ```
 3. Run the script:  
@@ -68,4 +68,8 @@ Play again? (y/n) > y
 
 ---
 
+I learned a lot while coding this game,and I appreciate you trying it!
+
 Enjoy the game! 🚀🔥 
+
+-- Made with ❤️ by @cottidev
