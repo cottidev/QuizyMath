@@ -1,4 +1,4 @@
-# Math Quiz Game, By Aymane Berhoua (@berhocode)
+# Math Quiz Game, By Aymane Berhoua (@cottidev)
 
 # importing modules:
 import random
